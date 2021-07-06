@@ -1,4 +1,4 @@
 ---
-url: "https://membership.swagger.io/v2/swagger.json"
+url: "https://MembershipSystemAPI.swagger.io/v1/swagger.json"
 dom_id: "#swagger-ui"
 validatorUrl: "https://validator.swagger.io/validator"
