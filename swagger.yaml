@@ -1,0 +1,217 @@
+openapi: 3.0.1
+info:
+  title: MembershipSystemAPI
+  description: This is a Web API for operations of employees accounts
+  version: v1
+paths:
+  /api/membership:
+    get:
+      tags:
+        - AccountMember
+      responses:
+        '200':
+          description: Success
+          content:
+            text/plain:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/AccountMemberDTO'
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/AccountMemberDTO'
+            text/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/AccountMemberDTO'
+    post:
+      tags:
+        - AccountMember
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/CreateAccountMemberDTO'
+          text/json:
+            schema:
+              $ref: '#/components/schemas/CreateAccountMemberDTO'
+          application/*+json:
+            schema:
+              $ref: '#/components/schemas/CreateAccountMemberDTO'
+      responses:
+        '200':
+          description: Success
+          content:
+            text/plain:
+              schema:
+                $ref: '#/components/schemas/CreateAccountMemberDTO'
+            application/json:
+              schema:
+                $ref: '#/components/schemas/CreateAccountMemberDTO'
+            text/json:
+              schema:
+                $ref: '#/components/schemas/CreateAccountMemberDTO'
+  '/api/membership/{cardNumber}':
+    get:
+      tags:
+        - AccountMember
+      parameters:
+        - name: cardNumber
+          in: path
+          required: true
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Success
+          content:
+            text/plain:
+              schema:
+                $ref: '#/components/schemas/Session'
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Session'
+            text/json:
+              schema:
+                $ref: '#/components/schemas/Session'
+  /api/membership/topup:
+    post:
+      tags:
+        - AccountMember
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/TopUpDTO'
+          text/json:
+            schema:
+              $ref: '#/components/schemas/TopUpDTO'
+          application/*+json:
+            schema:
+              $ref: '#/components/schemas/TopUpDTO'
+      responses:
+        '200':
+          description: Success
+          content:
+            text/plain:
+              schema:
+                $ref: '#/components/schemas/TopUpDTO'
+            application/json:
+              schema:
+                $ref: '#/components/schemas/TopUpDTO'
+            text/json:
+              schema:
+                $ref: '#/components/schemas/TopUpDTO'
+  '/api/membership/{id}':
+    delete:
+      tags:
+        - AccountMember
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: integer
+            format: int32
+      responses:
+        '200':
+          description: Success
+components:
+  schemas:
+    AccountMemberDTO:
+      type: object
+      properties:
+        name:
+          type: string
+          nullable: true
+        email:
+          type: string
+          nullable: true
+        cardNumber:
+          type: string
+          nullable: true
+        mobileNumber:
+          type: string
+          nullable: true
+        pin:
+          type: string
+          nullable: true
+        balance:
+          type: number
+          format: double
+      additionalProperties: false
+    CreateAccountMemberDTO:
+      required:
+        - cardNumber
+        - email
+        - mobileNumber
+        - name
+        - pin
+      type: object
+      properties:
+        name:
+          type: string
+        email:
+          type: string
+        cardNumber:
+          type: string
+        pin:
+          maxLength: 4
+          minLength: 4
+          type: string
+        mobileNumber:
+          type: string
+        loginSuccessful:
+          type: boolean
+        errorMessage:
+          type: string
+          nullable: true
+        success:
+          type: boolean
+      additionalProperties: false
+    Session:
+      type: object
+      properties:
+        name:
+          type: string
+          nullable: true
+        isRegistered:
+          type: boolean
+        cardNumber:
+          type: string
+          nullable: true
+        logoutMessage:
+          type: string
+          nullable: true
+        errorMessage:
+          type: string
+          nullable: true
+        success:
+          type: boolean
+        endSession:
+          type: boolean
+      additionalProperties: false
+    TopUpDTO:
+      required:
+        - cardNumber
+        - pin
+      type: object
+      properties:
+        cardNumber:
+          type: string
+        pin:
+          type: string
+        topUpAmount:
+          type: number
+          format: double
+        topUpSuccessful:
+          type: boolean
+        errorMessage:
+          type: string
+          nullable: true
+        success:
+          type: boolean
+      additionalProperties: false
