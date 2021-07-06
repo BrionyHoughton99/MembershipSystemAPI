@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\brion\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\brion\\.nuget\\packages"
+    ]
+  }
+}

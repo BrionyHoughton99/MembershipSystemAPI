@@ -6,3 +6,12 @@ D:\Briony's-projects\Apprenticeship\Membership System Api\MembershipSystem\Membe
 D:\Briony's-projects\Apprenticeship\Membership System Api\MembershipSystem\MembershipSystem.Models\obj\Debug\netcoreapp3.1\MembershipSystem.Models.csproj.CoreCompileInputs.cache
 D:\Briony's-projects\Apprenticeship\Membership System Api\MembershipSystem\MembershipSystem.Models\obj\Debug\netcoreapp3.1\MembershipSystem.Models.dll
 D:\Briony's-projects\Apprenticeship\Membership System Api\MembershipSystem\MembershipSystem.Models\obj\Debug\netcoreapp3.1\MembershipSystem.Models.pdb
+C:\Briony-apprenticeship\Briony's-projects\API\Membership System Api\MembershipSystem\MembershipSystem.Models\bin\Debug\netcoreapp3.1\MembershipSystem.Models.deps.json
+C:\Briony-apprenticeship\Briony's-projects\API\Membership System Api\MembershipSystem\MembershipSystem.Models\bin\Debug\netcoreapp3.1\MembershipSystem.Models.dll
+C:\Briony-apprenticeship\Briony's-projects\API\Membership System Api\MembershipSystem\MembershipSystem.Models\bin\Debug\netcoreapp3.1\MembershipSystem.Models.pdb
+C:\Briony-apprenticeship\Briony's-projects\API\Membership System Api\MembershipSystem\MembershipSystem.Models\obj\Debug\netcoreapp3.1\MembershipSystem.Models.csproj.AssemblyReference.cache
+C:\Briony-apprenticeship\Briony's-projects\API\Membership System Api\MembershipSystem\MembershipSystem.Models\obj\Debug\netcoreapp3.1\MembershipSystem.Models.AssemblyInfoInputs.cache
+C:\Briony-apprenticeship\Briony's-projects\API\Membership System Api\MembershipSystem\MembershipSystem.Models\obj\Debug\netcoreapp3.1\MembershipSystem.Models.AssemblyInfo.cs
+C:\Briony-apprenticeship\Briony's-projects\API\Membership System Api\MembershipSystem\MembershipSystem.Models\obj\Debug\netcoreapp3.1\MembershipSystem.Models.csproj.CoreCompileInputs.cache
+C:\Briony-apprenticeship\Briony's-projects\API\Membership System Api\MembershipSystem\MembershipSystem.Models\obj\Debug\netcoreapp3.1\MembershipSystem.Models.dll
+C:\Briony-apprenticeship\Briony's-projects\API\Membership System Api\MembershipSystem\MembershipSystem.Models\obj\Debug\netcoreapp3.1\MembershipSystem.Models.pdb
