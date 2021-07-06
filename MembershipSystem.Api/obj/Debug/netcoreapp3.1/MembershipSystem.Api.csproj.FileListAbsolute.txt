@@ -1,0 +1,5 @@
+D:\Briony's-projects\Apprenticeship\Membership System Api\MembershipSystem\MembershipSystem.Api\obj\Debug\netcoreapp3.1\MembershipSystem.Api.csprojAssemblyReference.cache
+D:\Briony's-projects\Apprenticeship\Membership System Api\MembershipSystem\MembershipSystem.Api\obj\Debug\netcoreapp3.1\MembershipSystem.Api.AssemblyInfoInputs.cache
+D:\Briony's-projects\Apprenticeship\Membership System Api\MembershipSystem\MembershipSystem.Api\obj\Debug\netcoreapp3.1\MembershipSystem.Api.AssemblyInfo.cs
+D:\Briony's-projects\Apprenticeship\Membership System Api\MembershipSystem\MembershipSystem.Api\obj\Debug\netcoreapp3.1\MembershipSystem.Api.csproj.CoreCompileInputs.cache
+D:\Briony's-projects\Apprenticeship\Membership System Api\MembershipSystem\MembershipSystem.Api\obj\Debug\netcoreapp3.1\MembershipSystem.Api.MvcApplicationPartsAssemblyInfo.cache

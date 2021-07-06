@@ -1,0 +1,12 @@
+D:\Briony's-projects\Apprenticeship\Membership System Api\MembershipSystem\MembershipSystem.Services\bin\Debug\netcoreapp3.1\MembershipSystem.Services.deps.json
+D:\Briony's-projects\Apprenticeship\Membership System Api\MembershipSystem\MembershipSystem.Services\bin\Debug\netcoreapp3.1\MembershipSystem.Services.dll
+D:\Briony's-projects\Apprenticeship\Membership System Api\MembershipSystem\MembershipSystem.Services\bin\Debug\netcoreapp3.1\MembershipSystem.Services.pdb
+D:\Briony's-projects\Apprenticeship\Membership System Api\MembershipSystem\MembershipSystem.Services\bin\Debug\netcoreapp3.1\MembershipSystem.Models.dll
+D:\Briony's-projects\Apprenticeship\Membership System Api\MembershipSystem\MembershipSystem.Services\bin\Debug\netcoreapp3.1\MembershipSystem.Models.pdb
+D:\Briony's-projects\Apprenticeship\Membership System Api\MembershipSystem\MembershipSystem.Services\obj\Debug\netcoreapp3.1\MembershipSystem.Services.csprojAssemblyReference.cache
+D:\Briony's-projects\Apprenticeship\Membership System Api\MembershipSystem\MembershipSystem.Services\obj\Debug\netcoreapp3.1\MembershipSystem.Services.AssemblyInfoInputs.cache
+D:\Briony's-projects\Apprenticeship\Membership System Api\MembershipSystem\MembershipSystem.Services\obj\Debug\netcoreapp3.1\MembershipSystem.Services.AssemblyInfo.cs
+D:\Briony's-projects\Apprenticeship\Membership System Api\MembershipSystem\MembershipSystem.Services\obj\Debug\netcoreapp3.1\MembershipSystem.Services.csproj.CoreCompileInputs.cache
+D:\Briony's-projects\Apprenticeship\Membership System Api\MembershipSystem\MembershipSystem.Services\obj\Debug\netcoreapp3.1\MembershipSystem.Services.csproj.CopyComplete
+D:\Briony's-projects\Apprenticeship\Membership System Api\MembershipSystem\MembershipSystem.Services\obj\Debug\netcoreapp3.1\MembershipSystem.Services.dll
+D:\Briony's-projects\Apprenticeship\Membership System Api\MembershipSystem\MembershipSystem.Services\obj\Debug\netcoreapp3.1\MembershipSystem.Services.pdb

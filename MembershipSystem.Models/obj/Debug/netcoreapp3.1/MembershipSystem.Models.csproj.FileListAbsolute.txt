@@ -1,0 +1,8 @@
+D:\Briony's-projects\Apprenticeship\Membership System Api\MembershipSystem\MembershipSystem.Models\bin\Debug\netcoreapp3.1\MembershipSystem.Models.deps.json
+D:\Briony's-projects\Apprenticeship\Membership System Api\MembershipSystem\MembershipSystem.Models\bin\Debug\netcoreapp3.1\MembershipSystem.Models.dll
+D:\Briony's-projects\Apprenticeship\Membership System Api\MembershipSystem\MembershipSystem.Models\bin\Debug\netcoreapp3.1\MembershipSystem.Models.pdb
+D:\Briony's-projects\Apprenticeship\Membership System Api\MembershipSystem\MembershipSystem.Models\obj\Debug\netcoreapp3.1\MembershipSystem.Models.AssemblyInfoInputs.cache
+D:\Briony's-projects\Apprenticeship\Membership System Api\MembershipSystem\MembershipSystem.Models\obj\Debug\netcoreapp3.1\MembershipSystem.Models.AssemblyInfo.cs
+D:\Briony's-projects\Apprenticeship\Membership System Api\MembershipSystem\MembershipSystem.Models\obj\Debug\netcoreapp3.1\MembershipSystem.Models.csproj.CoreCompileInputs.cache
+D:\Briony's-projects\Apprenticeship\Membership System Api\MembershipSystem\MembershipSystem.Models\obj\Debug\netcoreapp3.1\MembershipSystem.Models.dll
+D:\Briony's-projects\Apprenticeship\Membership System Api\MembershipSystem\MembershipSystem.Models\obj\Debug\netcoreapp3.1\MembershipSystem.Models.pdb

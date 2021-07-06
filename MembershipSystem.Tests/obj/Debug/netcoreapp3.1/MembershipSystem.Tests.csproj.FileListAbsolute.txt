@@ -1,0 +1,9 @@
+D:\Briony's-projects\Apprenticeship\Membership System Api\MembershipSystem\MembershipSystem.Tests\bin\Debug\netcoreapp3.1\MembershipSystem.Tests.deps.json
+D:\Briony's-projects\Apprenticeship\Membership System Api\MembershipSystem\MembershipSystem.Tests\bin\Debug\netcoreapp3.1\MembershipSystem.Tests.dll
+D:\Briony's-projects\Apprenticeship\Membership System Api\MembershipSystem\MembershipSystem.Tests\bin\Debug\netcoreapp3.1\MembershipSystem.Tests.pdb
+D:\Briony's-projects\Apprenticeship\Membership System Api\MembershipSystem\MembershipSystem.Tests\obj\Debug\netcoreapp3.1\MembershipSystem.Tests.csprojAssemblyReference.cache
+D:\Briony's-projects\Apprenticeship\Membership System Api\MembershipSystem\MembershipSystem.Tests\obj\Debug\netcoreapp3.1\MembershipSystem.Tests.AssemblyInfoInputs.cache
+D:\Briony's-projects\Apprenticeship\Membership System Api\MembershipSystem\MembershipSystem.Tests\obj\Debug\netcoreapp3.1\MembershipSystem.Tests.AssemblyInfo.cs
+D:\Briony's-projects\Apprenticeship\Membership System Api\MembershipSystem\MembershipSystem.Tests\obj\Debug\netcoreapp3.1\MembershipSystem.Tests.csproj.CoreCompileInputs.cache
+D:\Briony's-projects\Apprenticeship\Membership System Api\MembershipSystem\MembershipSystem.Tests\obj\Debug\netcoreapp3.1\MembershipSystem.Tests.dll
+D:\Briony's-projects\Apprenticeship\Membership System Api\MembershipSystem\MembershipSystem.Tests\obj\Debug\netcoreapp3.1\MembershipSystem.Tests.pdb

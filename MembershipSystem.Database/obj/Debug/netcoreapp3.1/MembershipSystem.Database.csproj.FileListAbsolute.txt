@@ -1,0 +1,15 @@
+D:\Briony's-projects\Apprenticeship\Membership System Api\MembershipSystem\MembershipSystem.Database\bin\Debug\netcoreapp3.1\MembershipSystem.Database.deps.json
+D:\Briony's-projects\Apprenticeship\Membership System Api\MembershipSystem\MembershipSystem.Database\bin\Debug\netcoreapp3.1\MembershipSystem.Database.runtimeconfig.json
+D:\Briony's-projects\Apprenticeship\Membership System Api\MembershipSystem\MembershipSystem.Database\bin\Debug\netcoreapp3.1\MembershipSystem.Database.runtimeconfig.dev.json
+D:\Briony's-projects\Apprenticeship\Membership System Api\MembershipSystem\MembershipSystem.Database\bin\Debug\netcoreapp3.1\MembershipSystem.Database.dll
+D:\Briony's-projects\Apprenticeship\Membership System Api\MembershipSystem\MembershipSystem.Database\bin\Debug\netcoreapp3.1\MembershipSystem.Database.pdb
+D:\Briony's-projects\Apprenticeship\Membership System Api\MembershipSystem\MembershipSystem.Database\bin\Debug\netcoreapp3.1\MembershipSystem.Models.dll
+D:\Briony's-projects\Apprenticeship\Membership System Api\MembershipSystem\MembershipSystem.Database\bin\Debug\netcoreapp3.1\MembershipSystem.Models.pdb
+D:\Briony's-projects\Apprenticeship\Membership System Api\MembershipSystem\MembershipSystem.Database\obj\Debug\netcoreapp3.1\MembershipSystem.Database.csprojAssemblyReference.cache
+D:\Briony's-projects\Apprenticeship\Membership System Api\MembershipSystem\MembershipSystem.Database\obj\Debug\netcoreapp3.1\MembershipSystem.Database.AssemblyInfoInputs.cache
+D:\Briony's-projects\Apprenticeship\Membership System Api\MembershipSystem\MembershipSystem.Database\obj\Debug\netcoreapp3.1\MembershipSystem.Database.AssemblyInfo.cs
+D:\Briony's-projects\Apprenticeship\Membership System Api\MembershipSystem\MembershipSystem.Database\obj\Debug\netcoreapp3.1\MembershipSystem.Database.csproj.CoreCompileInputs.cache
+D:\Briony's-projects\Apprenticeship\Membership System Api\MembershipSystem\MembershipSystem.Database\obj\Debug\netcoreapp3.1\MembershipSystem.Database.csproj.CopyComplete
+D:\Briony's-projects\Apprenticeship\Membership System Api\MembershipSystem\MembershipSystem.Database\obj\Debug\netcoreapp3.1\MembershipSystem.Database.dll
+D:\Briony's-projects\Apprenticeship\Membership System Api\MembershipSystem\MembershipSystem.Database\obj\Debug\netcoreapp3.1\MembershipSystem.Database.pdb
+D:\Briony's-projects\Apprenticeship\Membership System Api\MembershipSystem\MembershipSystem.Database\obj\Debug\netcoreapp3.1\MembershipSystem.Database.genruntimeconfig.cache
